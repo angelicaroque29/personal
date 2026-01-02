@@ -1,3 +1,7 @@
 {
+  "homepage": "https://angelicaroque29.github.io/personal",
+  "scripts": {
+    "build": "react-scripts build"
+  },
   "type": "module"
 }
